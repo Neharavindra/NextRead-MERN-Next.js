@@ -1,5 +1,5 @@
-## **📖 nextRead - Your Digital Library**
-nextRead is a full-stack web application that allows users to sign up, log in, and start reading books seamlessly. The platform provides an interactive reading experience and manages user data efficiently.
+## **📖 NextRead - Your Digital Library**
+NextRead is a full-stack web application that allows users to sign up, log in, and start reading books seamlessly. The platform provides an interactive reading experience and manages user data efficiently.
 
 ### 🚀 Tech Stack
 - **Frontend:**
