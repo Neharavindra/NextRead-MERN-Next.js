@@ -18,12 +18,6 @@ NextRead is a full-stack web application that allows users to sign up, log in, a
 - ✅ Personalized book recommendations 🎯
 - ✅ Track reading progress 📖
 
-### 📷 Preview
-<div align="center">
-  <img src="signup.png" alt="SignUp Page" width="600"/><br/>
-  <img src="login-cred.png" alt="Login Page" width="600"/>
-  <img src="dashbook.png" alt="Reading Page" width="600"/><br/>
-</div>
 
 ---
 
